@@ -1,6 +1,8 @@
 
 body {background-color: #FFF1BD; 
     margin: 0px;
+   
+
 }
 h1{margin-top:0;}
 .nome{padding-left:10px;
@@ -17,9 +19,37 @@ hr {
     .habilidade{background-color:#FFF1BD}
     .finish{background-color:#A3DA8D}
 .ola{text-align:center;
+    font-family: "sacramento",cursive;
+    font-size: 50px;
+    margin-top:30px, 0 auto ,0 auto, 0 auto;
+}
+.desenvolva{ font-family: "sacramento",cursive;
+    font-size: 50px;
 }
 .linha{position:relative;
 top: 3px;
 }
-
-
+.mountain{
+    position:absolute;
+    left: 44%;
+    top: 140px;
+}
+.Nuvens{
+    position:absolute;
+    top: 5px;
+}
+.Nuvens-bottom{
+    position:absolute;
+  left: 45%;
+ top:560px;
+}
+.Nuvens-top{position:absolute;
+   top: 1050px;
+    right:50px;
+}
+.btn{color:rgba(19, 80, 0, 0.918);
+ }
+p{color: rgb(121, 34, 3);
+font-size:16px;}
+.text{font-size:22px;
+}
